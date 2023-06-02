@@ -1,0 +1,24 @@
+{
+  "users": [
+    {
+      "email": "test1@test.com",
+      "password": "$2a$10$AptFWZbsHkWrdrTl.Y/P2eC8ZV2I/6sjDhcHttzceHanGGDxh9Fyu",
+      "username": "User Test 1",
+      "id": 1
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "userId": 1,
+      "title": "Iphone SE 2016",
+      "price": 2000000
+    },
+    {
+      "id": 2,
+      "userId": 1,
+      "title": "Sony Xperia XZ Compact",
+      "price": 1100000
+    }
+  ]
+}
